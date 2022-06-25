@@ -6,7 +6,7 @@ function HookCounter(){
 
     return(<div>
         <button onClick={() => SetCount(count + 1)}>
-            <h1>Function Componenetss added</h1>
+            <h1>Function Componenetss ADF</h1>
             Count {count}
         </button>
     </div>
